@@ -1,8 +1,8 @@
 - 👋 Hi, I’m MAX-ZERO
-- 👀 I’m interested in hacking and programing
-- 🌱 I’m currently learning python and C
+- 👀 I’m interested into hacking and programing
+- 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on HTB and THM websites
-- - 📫 How to reach me! IDNK
+- - 📫 How to reach me! when I be ready (;
 
 <!---
 Max-ZeroK/Max-ZeroK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
