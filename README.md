@@ -1,5 +1,5 @@
-- 👋 Hi, I’m MAX-ZERO
-- 👀 I’m interested into hacking and programing
+- 👋 Hi, I’m MAX
+- 👀 I’m interested into hacking and programming
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on HTB and THM websites
 - - 📫 How to reach me! when I be ready (;
